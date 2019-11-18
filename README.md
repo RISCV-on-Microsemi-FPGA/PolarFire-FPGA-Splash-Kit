@@ -1,4 +1,4 @@
-## PolarFire Evaluation Kit RISC-V Designs
+## PolarFire-FPGA-Splash-Kit RISC-V Designs
 
 Sample Mi-V Libero projects for FPGA designs for RISC-V PolarFire FPGA Splash Kit
 
