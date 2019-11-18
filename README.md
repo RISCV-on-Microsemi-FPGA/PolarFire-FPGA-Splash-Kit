@@ -37,7 +37,7 @@ A set of RISC-V example software projects are also available for these designs f
 
 ### Target Hardware
 Microsemi's PolarFire Splash Kit provides general-purpose interfaces for evaluation and development. Details of the features of PolarFire Splash Kit:
-PolarFire-Splash-Kit (MPF300) [here](https://www.microsemi.com/existing-parts/parts/144001).
+* PolarFire-Splash-Kit (MPF300) [here](https://www.microsemi.com/existing-parts/parts/144001).
 
 ### Target Mi-V CPU
 Details of the features of Mi-V CPUs are available [here](https://github.com/RISCV-on-Microsemi-FPGA/CPUs).
