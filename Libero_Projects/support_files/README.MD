@@ -1,1 +1,0 @@
-## Support files for PolarFire-FPGA-Splash-Kit RISC-V Designs
