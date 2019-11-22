@@ -1,6 +1,6 @@
 ## PolarFire-FPGA-Splash-Kit for Libero v12.1
 
-Sample Mi-V Libero project for FPGA designs for RISC-V PolarFire FPGA Splash Kit
+Sample Mi-V Libero project for FPGA designs for RISC-V PolarFire FPGA Splash Kit.
 
 To get your design download or clone this repository. The files consist of .tcl script files that are to be executed in Libero to build the design, the import folder contatining supporting files for building and the programming file which can be used to directly program hardware. Follow the instructions below to build your design in Libero, alternatively program your target device using the default programming files provided. They are found in the FlashPro Express Project's folder, instructions on programming are also listed below.
 
