@@ -1,6 +1,6 @@
 ## PolarFire Evaluation Kit RISC-V Designs
 
-Sample Mi-V Libero projects for FPGA designs for RISC-V PolarFire FPGA Splash Kit
+Sample Mi-V Libero project for FPGA designs for RISC-V PolarFire FPGA Splash Kit.
 
 This repository containts Libero projects containing an FPGA design including a RISC-V soft processor, the projects are .tcl scripts that are executed in Libero to build whole designs. By passing arguments with the script, the user can decide on type of the MiV Core used (AXI or AHB) and how far in the design flow they want to be taken, using the most optimal settings.
 The Programming bitstream(s) are also included so that you do not need to run through the full FPGA design flow in order to start developing software for RISC-V.
