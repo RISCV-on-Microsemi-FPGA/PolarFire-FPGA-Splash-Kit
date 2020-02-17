@@ -1,4 +1,4 @@
-## PolarFire Evaluation Kit RISC-V Designs
+## PolarFire-FPGA-Splash-Kit RISC-V Designs
 
 Sample Mi-V Libero project for FPGA designs for RISC-V PolarFire FPGA Splash Kit.
 
@@ -13,11 +13,11 @@ The Libero_Projects folder contains the .tcl scripts that build the Libero desig
 #### Design Features
 The FPGA designs include the following features:
 * Uses MIV_RV32IMA_L1_AHB or MIV_RV32IMA_L1_AXI soft processor
-* Support for Engineering Sample FPGA (MPF300T_ES)
 * RISC-V debug block allowing on-target debug using openocd/GDB
+* Operating frequency of the design is 50MHz
 * LSRAM for code/data
 * User peripherals such as GPIO, Timers, UART
-* Designs created with Libero v12.1
+* Designs created with Libero v12.3
 
 #### Projects
 A choice of two Libero projects, each containing either MiV Core:
@@ -37,7 +37,7 @@ A set of RISC-V example software projects are also available for these designs f
 
 ### Target Hardware
 Microsemi's PolarFire Splash Kit provides general-purpose interfaces for evaluation and development. Details of the features of PolarFire Splash Kit:
-PolarFire-Splash-Kit (MPF300) [here](https://www.microsemi.com/existing-parts/parts/144001).
+* PolarFire-Splash-Kit (MPF300) [here](https://www.microsemi.com/existing-parts/parts/144001).
 
 ### Target Mi-V CPU
 Details of the features of Mi-V CPUs are available [here](https://github.com/RISCV-on-Microsemi-FPGA/CPUs).
