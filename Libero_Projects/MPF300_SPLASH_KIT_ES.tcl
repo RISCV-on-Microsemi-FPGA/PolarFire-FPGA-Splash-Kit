@@ -1,10 +1,10 @@
-set project_folder_name_axi MiV_AXI_PF_Splash_Kit_ES
+set project_folder_name_axi MiV_AXI_BD
 set project_dir_axi "./$project_folder_name_axi"
-set Libero_project_name_axi MiV_AXI_BaseDesign
+set Libero_project_name_axi PF_Splash_Kit_ES_MiV_AXI_BaseDesign
 
-set project_folder_name_ahb MiV_AHB_PF_Splash_Kit_ES
+set project_folder_name_ahb MiV_AHB_BD
 set project_dir_ahb "./$project_folder_name_ahb"
-set Libero_project_name_ahb MiV_AHB_BaseDesign
+set Libero_project_name_ahb PF_Splash_Kit_ES_MiV_AHB_BaseDesign
 
 set target [string toupper [lindex $argv 0]]
 set design_flow_stage [string toupper [lindex $argv 1]]
