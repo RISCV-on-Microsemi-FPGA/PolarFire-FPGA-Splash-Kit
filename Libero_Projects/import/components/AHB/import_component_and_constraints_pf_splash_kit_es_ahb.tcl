@@ -1,6 +1,5 @@
-set project_folder_name MiV_AHB_PF_Splash_Kit_ES
+set project_folder_name MiV_AHB_BD
 set project_dir2 "./$project_folder_name"
-set Libero_project_name MiV_AHB_BaseDesign
     
 puts "-------------------------------------------------------------------------"
 puts "-----------------------IMPORTING COMPONENTS------------------------------"
